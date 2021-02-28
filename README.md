@@ -1,6 +1,6 @@
 # Analyzing-performance-sports-teams-
 
-Data set: Laliga.csv
+
 
  
 
